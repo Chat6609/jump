@@ -1,0 +1,20 @@
+html {
+  font-family: 'Open Sans', sans-serif;
+  /*font-family: 'Monoton', cursive;*/
+  font-size: 14px;
+}
+
+nav{
+  border: 1px solid red;
+}
+.navbar ul{
+  margin: auto;
+}
+.navbar ul li{
+  display: inline-flex;
+  font-size: 1.1rem;
+  font-weight: bold;
+  /* border: 1px solid green; */
+  align-items: center;
+  padding-right: 1.5rem;
+}
